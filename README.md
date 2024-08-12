@@ -54,5 +54,8 @@ Problem b can be solved quite intuitively. If a model with high accuracy consist
 Problem a can also be solved intuitively, but not with adjustments to model or training techniques. It is also difficult to measure what is out-of-sample and what is not. 
 
 
+### Sources: 
+    arXiv:2401.07359 [cs.AI]
+
 
 
